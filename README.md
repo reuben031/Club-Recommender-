@@ -1,3 +1,4 @@
 # Club-Recommender-
+chatbot for freshers
 <br>
-chatbot for freshers - club descriptions & recommendations.
+club descriptions & recommendations.
